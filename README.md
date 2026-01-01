@@ -12,7 +12,6 @@ This repository showcases a collection of my **Machine Learning** projects built
 | **Diabetes Prediction**      | Predicts whether a patient is diabetic or not using medical data.           | Support Vector Machine (SVM), Scikit-learn   | [GitHub](https://github.com/Pranav-Uniyal/Diabetes-Prediction-System) |
 | **Heart Disease Prediction** | Predicts risk of heart disease based on symptoms and vitals.                | Logistic Regression, Random Forest           | [GitHub](https://github.com/Pranav-Uniyal/Heart-Disease-Prediction) |
 | **Liver Disease Prediction** | Classifies whether a person is likely to have liver disease.                | Logistic Regression , SVM                       | [GitHub](https://github.com/Pranav-Uniyal/Liver-Disease-Prediction) |
-| **Bag Price Prediction**     | Predicts the price of a bag based on features like brand, material, size.  | Multiple Linear Regression, Pandas            | [GitHub](https://github.com/Pranav-Uniyal/Bag-Price-Prediction) |
 | **Product Carbon Footprint Classification** | Classifies products into Low, Medium, or High carbon footprint categories based on product/environmental features.    | Decision Tree Classifier, Streamlit, Scikit-learn  | [GitHub](https://github.com/Pranav-Uniyal/Product-Carbon-Footprint-Classification-) |
 | **Product Recommendation System**  | Recommends relevant Walmart products to users based on category and price preferences. | K-Nearest Neighbors (KNN), Streamlit, Pickle, Scikit-learn | [GitHub](https://github.com/Pranav-Uniyal/Product-Recommendation-System) |
 
